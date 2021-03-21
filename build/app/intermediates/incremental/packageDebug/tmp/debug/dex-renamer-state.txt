@@ -1,0 +1,4 @@
+#Fri Mar 19 21:27:42 BRT 2021
+base.0=/Users/leandro.souza/Documents/Flutter Chat App/chat_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
