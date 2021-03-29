@@ -20,10 +20,10 @@ class _SignInState extends State<SignIn> {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  TextField(
+                  TextFormField(
                       style: simpleTextFieldStyle(),
                       decoration: textFieldInputDecoration("E-mail")),
-                  TextField(
+                  TextFormField(
                       style: simpleTextFieldStyle(),
                       decoration: textFieldInputDecoration("Senha")),
                   SizedBox(
