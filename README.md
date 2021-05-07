@@ -4,7 +4,11 @@ Projeto em flutter para criar um aplicativo de Chat moderno como Telegram ou Wha
 
 As aulas utilizadas para montar esse projeto: https://www.youtube.com/watch?v=EW7m2WIvFgQ&list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a
 
-## Começando com Flutter
+## Firebase
+
+Para aproveitar o código deste repositório será necessário criar um projeto no Google Firebase (assista aos videos que estão no link disponibilizado acima para aprender) e incluir o arquivo google-services.json no projeto. 
+
+### Começando com Flutter
 
 Esse projeto é um ponto de inicio para quem deseja começar a desenvolver aplicações em Flutter.
 
