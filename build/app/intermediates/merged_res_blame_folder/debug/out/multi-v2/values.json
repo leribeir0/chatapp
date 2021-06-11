@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/leandro.souza/OneDrive - Easynvest Título Corretora de Valores SA/Documentos/Flutter Chat App/chatapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/leandro.souza/Documents/FlutterApp/chatapp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/leandro.souza/.gradle/caches/transforms-2/files-2.1/b4abb3ae12fe055372984e118f8f9d66/jetified-play-services-basement-17.1.0/res/values/values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/leandro.souza/OneDrive - Easynvest Título Corretora de Valores SA/Documentos/Flutter Chat App/chatapp/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/leandro.souza/Documents/FlutterApp/chatapp/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/leandro.souza/OneDrive - Easynvest Título Corretora de Valores SA/Documentos/Flutter Chat App/chatapp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/leandro.souza/Documents/FlutterApp/chatapp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
