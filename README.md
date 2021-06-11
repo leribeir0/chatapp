@@ -2,7 +2,7 @@
 
 Projeto em flutter para criar um aplicativo de Chat moderno como Telegram ou Whatsapp. No momento o projeto ainda não foi concluido (um pouco mais de 75% do projeto feito) e precisa de alguns ajustes finais.
 
-As aulas utilizadas para montar esse projeto: https://www.youtube.com/watch?v=EW7m2WIvFgQ&list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a
+As aulas utilizadas para montar esse projeto: https://www.youtube.com/watch?v=X00Xv7blBo0
 
 ## Firebase
 
